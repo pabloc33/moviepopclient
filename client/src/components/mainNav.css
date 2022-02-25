@@ -1,0 +1,15 @@
+.profile {
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.userName {
+  display: flex;
+  align-items: center;
+}
+
+.hom {
+  justify-content: space-between;
+}
